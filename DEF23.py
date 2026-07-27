@@ -6,4 +6,4 @@ dict4 = {1: 'One', 'Two': 2}
 print("Empty dictionary:", dict1)
 print("With values:", dict2)
 print("Using dict():", dict3)
-print("Mixed keys:", dict4)
+print("Mixed keys:", dict4) 

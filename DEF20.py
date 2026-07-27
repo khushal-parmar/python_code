@@ -12,3 +12,4 @@ print("Max:", max(t))
 t2 = (5, 3, 8)
 print("Comparison with (5, 3, 8):", t == t2)
 print("Reversed:", tuple(reversed(t)))
+ 

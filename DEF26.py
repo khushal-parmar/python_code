@@ -11,3 +11,4 @@ def display():
 show()
 display()
 print("Global x after function call:", x)
+ 

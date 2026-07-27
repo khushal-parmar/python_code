@@ -10,7 +10,7 @@ print("After pop('city'):", d)
 d['country'] = 'India'
 print("After adding key 'country':", d)
 print("Keys:", d.keys())
-print("Values:", d.values())
+print("Values:", d.values()) 
 print("Items:", d.items())
 d2 = d.copy()
 print("Copied dictionary:", d2)

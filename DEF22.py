@@ -12,7 +12,7 @@ print("After pop():", s)
 s.discard(20)
 print("After discard(20):", s)
 s.remove(30)
-print("After remove(30):", s)
+print("After remove(30):", s) 
 s.clear()
 print("After clear():", s)
 # Set operations

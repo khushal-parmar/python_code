@@ -7,3 +7,4 @@ print("Empty tuple:", t1)
 print("Tuple with values:", t2)
 print("Tuple from list:", t3)
 print("Mixed tuple:", t4)
+  

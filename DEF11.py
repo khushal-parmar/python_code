@@ -6,4 +6,4 @@ with open("test.txt", "r") as f:
  print("File content:", content)
       
       
-      
+       

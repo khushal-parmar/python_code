@@ -9,3 +9,4 @@ n, a, c = student_details()
 print("Name:", n)
 print("Age:", a)
 print("Course:", c)
+  

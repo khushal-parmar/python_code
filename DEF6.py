@@ -11,7 +11,7 @@ b = 33
 if b > a: 
       print("b is greater than a")
 elif a == b:
-    print("a and b are equal")
+    print("a and b are equal") 
 
 # •Else   
 a = 200
